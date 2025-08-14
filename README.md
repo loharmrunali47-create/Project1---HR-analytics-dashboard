@@ -43,6 +43,7 @@ HR-Analytics-Dashboard
    Difficulty in predicting future attrition risks and planning retention strategies.
 
 6. Key Questions Such as:
+   
   What is the company’s current attrition rate?
 
   Which departments experience the highest turnover?
@@ -55,7 +56,8 @@ HR-Analytics-Dashboard
 
   Which workforce segments require targeted retention strategies?
 
-7. Data Source
+7. Data Source:
+   
   The dataset used in this dashboard is a sample HR dataset containing anonymized employee records, including demographics, job roles, education background, and attrition details.
 
   Source: IBM HR Analytics Employee Attrition & Performance Dataset from Kaggle (synthetic dataset for learning and demonstration purposes)
@@ -63,6 +65,7 @@ HR-Analytics-Dashboard
   Link: IBM HR Analytics Dataset on Kaggle
 
 8. How to Use
+   
   Open the PBIX file in Power BI Desktop to explore the dashboard interactively.
 
   Use filters to view results by department, age group, gender, or education.
