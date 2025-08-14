@@ -1,9 +1,12 @@
 📊 HR-Analytics-Dashboard
-💡 HR Insights: Employee Attrition & Workforce Analysis Dashboard – An interactive Power BI dashboard analyzing attrition trends, workforce demographics, and job satisfaction.
+💡 HR Insights:
+Employee Attrition & Workforce Analysis Dashboard – An interactive Power BI dashboard analyzing attrition trends, workforce demographics, and job satisfaction.
 
-📝 Purpose – Helps HR managers and business leaders monitor workforce trends and make data-driven retention decisions.
+📝 Purpose – 
+Helps HR managers and business leaders monitor workforce trends and make data-driven retention decisions.
 
-🛠 Tech Stack – Power BI Desktop, Power Query, DAX, Data Modeling.
+🛠 Tech Stack –
+Power BI Desktop, Power Query, DAX, Data Modeling.
 
 ✨ Features –
 
