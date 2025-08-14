@@ -1,71 +1,45 @@
 📊 HR-Analytics-Dashboard
-1. 💡 HR Insights:
-Employee Attrition & Workforce Analysis Dashboard
-A dynamic, interactive Power BI dashboard designed to analyze key HR metrics — focusing on attrition trends, workforce demographics, and employee satisfaction.
+💡 HR Insights: Employee Attrition & Workforce Analysis Dashboard – An interactive Power BI dashboard analyzing attrition trends, workforce demographics, and job satisfaction.
 
-3. 📝 Short Description / Purpose
-The HR Analytics Dashboard is a visually engaging and analytical Power BI report built to help HR managers, business leaders, and analysts monitor workforce trends. It provides insights into employee attrition, department-wise turnover, demographic breakdowns, and job satisfaction levels, enabling data-driven decisions to improve retention and workforce planning.
+📝 Purpose – Helps HR managers and business leaders monitor workforce trends and make data-driven retention decisions.
 
-4. 🛠 Tech Stack:
-The dashboard was built using the following tools and technologies:
+🛠 Tech Stack – Power BI Desktop, Power Query, DAX, Data Modeling.
 
-Power BI Desktop – Main data visualization platform used for report creation.
+✨ Features –
 
-Power Query – Data transformation and cleaning layer for preparing the HR dataset.
+Total Employees, Attrition Rate, Active Employees, Avg. Age
 
-DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and custom logic.
+Department-wise Attrition
 
-Data Modeling – Relationships established among tables (employee details, job roles, demographics) to enable cross-filtering and interactive analysis.
+Age & Gender Distribution
 
-4. ✨ Features / Highlights:
-Company overview: Total Employees, Attrition Count, Attrition Rate, Active Employees, Average Age.
+Job Satisfaction by Role
 
-Department-wise Attrition with percentage breakdown.
+Education Field Impact
 
-Age Group & Gender Distribution visualizations.
+Interactive filters for deep insights
 
-Job Satisfaction Levels by role.
+🚩 Business Problems –
 
-Education Field Impact on attrition.
+High employee turnover
 
-Interactive filters for drilling down into specific demographics or job roles.
+Identifying at-risk departments/age groups
 
-Clear and intuitive visual design for quick decision-making.
+Understanding job satisfaction patterns
 
-5. 🚩 Business Problems Addressed:
-High and unexplained employee turnover.
+Predicting attrition risks
 
-Difficulty in identifying which departments and age groups are most affected by attrition.
+❓ Key Questions –
 
-Lack of clarity on job satisfaction patterns among employees.
+What’s the attrition rate?
 
-No visual, data-driven method to monitor HR performance metrics.
+Which departments have highest turnover?
 
-Difficulty in predicting future attrition risks and planning retention strategies.
+How does attrition vary by age & gender?
 
-6. ❓ Key Questions Such as:
-What is the company’s current attrition rate?
+Does education affect attrition?
 
-Which departments experience the highest turnover?
+📂 Data Source – IBM HR Analytics Employee Attrition & Performance Dataset from Kaggle (synthetic dataset).
 
-How is attrition distributed across age groups and genders?
+🖱 How to Use – Open .pbix in Power BI, apply filters, or view the PDF for a quick snapshot.
 
-What is the job satisfaction level by role?
-
-Does education field influence attrition trends?
-
-Which workforce segments require targeted retention strategies?
-
-7. 📂 Data Source:
-The dataset used in this dashboard is a sample HR dataset containing anonymized employee records, including demographics, job roles, education background, and attrition details.
-
-Source: IBM HR Analytics Employee Attrition & Performance Dataset from Kaggle (synthetic dataset for learning and demonstration purposes)
-
-Link: IBM HR Analytics Dataset on Kaggle
-
-8. 🖱 How to Use:
-Open the PBIX file in Power BI Desktop to explore the dashboard interactively.
-
-Use filters to view results by department, age group, gender, or education.
-
-Refer to the PDF version for a quick snapshot without Power BI Desktop.
